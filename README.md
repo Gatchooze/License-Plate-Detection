@@ -4,4 +4,5 @@ We create a model to detec the license plate, crop it, and detec the character u
 
 Base model : VGG16
 Dataset    : https://www.kaggle.com/imamdigmi/indonesian-plate-number
-             https://www.kaggle.com/mclikmb4/vehicle-license-plate-detection-vgg16/data#Convolutionnal-Neural-Network
+
+             https://www.kaggle.com/andrewmvd/car-plate-detection
